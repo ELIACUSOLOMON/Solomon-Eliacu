@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InternProject</string>
+    <string name="starttext">Dewise-E-Shop</string>
+    <string name="btn1">Click Here To Continue</string>
+    <string name="welcome">You are most welcome to this Online shoping platform.To continue click the button below</string>
+    <string name="make">Here You Are!!</string>
+    <string name="txtlist">you can now make your order</string>
+    <string name="listpage">Item List</string>
+</resources>
